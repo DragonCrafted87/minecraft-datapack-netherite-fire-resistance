@@ -1,0 +1,1 @@
+schedule function netherite_fire_resistance:give_fire_resistance 1
